@@ -1,0 +1,13 @@
+.login-form {
+    background-color: #eee;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+h2 {
+    color: black;
+}
